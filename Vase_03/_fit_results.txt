@@ -1,0 +1,43 @@
+Polynomial Fitting Results for Vase_03
+==================================================
+
+Polynomial Coefficients:
+--------------------------------------------------
+
+Section 1 - Polynomial Degree: 1
+Coefficient of determination (R²): 0.934719
+p(x) = (-0.056520 ± 0.002156)x + (5.130559 ± 0.013033)
+p_up(x) = -0.056520x + 5.230559
+p_down(x) = -0.056520x + 5.030559
+
+Section 2 - Polynomial Degree: 2
+Coefficient of determination (R²): 0.975662
+p(x) = (-0.015685 ± 0.014311)x^2 + (0.154422 ± 0.327780)x + (4.596200 ± 1.869431)
+p_up(x) = -0.015685x^2 + 0.154422x + 4.696200
+p_down(x) = -0.015685x^2 + 0.154422x + 4.496200
+
+Section 3 - Polynomial Degree: 2
+Coefficient of determination (R²): 0.965869
+p(x) = (0.033767 ± 0.002467)x^2 + (-1.188692 ± 0.078251)x + (13.675885 ± 0.614278)
+p_up(x) = 0.033767x^2 + -1.188692x + 13.775885
+p_down(x) = 0.033767x^2 + -1.188692x + 13.575885
+
+Section 4 - Polynomial Degree: 1
+Coefficient of determination (R²): 0.932833
+p(x) = (0.080149 ± 0.003104)x + (1.769752 ± 0.076083)
+p_up(x) = 0.080149x + 1.869752
+p_down(x) = 0.080149x + 1.669752
+
+Integration Boundaries:
+--------------------------------------------------
+Boundary 1: x = 0.0000 cm, y = 5.1306 cm
+Boundary 2: x = 10.0631 cm, y = 4.5618 cm
+Boundary 3: x = 12.6801 cm, y = 4.0323 cm
+Boundary 4: x = 19.4218 cm, y = 3.3264 cm
+Boundary 5: x = 28.9800 cm, y = 4.0925 cm
+
+Fit Statistics:
+--------------------------------------------------
+Number of sections: 4
+Polynomial degrees: [1, 2, 2, 1]
+Average R²: 0.952271
