@@ -1,0 +1,50 @@
+Polynomial Fitting Results for Vase_02
+==================================================
+
+Polynomial Coefficients:
+--------------------------------------------------
+
+Section 1 - Polynomial Degree: 1
+Coefficient of determination (R²): 0.998345
+p(x) = (1.154029 ± 0.014165)x + (3.516208 ± 0.027007)
+p_up(x) = 1.154029x + 3.616208
+p_down(x) = 1.154029x + 3.416208
+
+Section 2 - Polynomial Degree: 1
+Coefficient of determination (R²): 0.996579
+p(x) = (-1.159730 ± 0.018845)x + (11.115634 ± 0.098807)
+p_up(x) = -1.159730x + 11.215634
+p_down(x) = -1.159730x + 11.015634
+
+Section 3 - Polynomial Degree: 1
+Coefficient of determination (R²): 0.025555
+p(x) = (-0.005040 ± 0.012707)x + (2.977024 ± 0.154524)
+p_up(x) = -0.005040x + 3.077024
+p_down(x) = -0.005040x + 2.877024
+
+Section 4 - Polynomial Degree: 1
+Coefficient of determination (R²): 0.950399
+p(x) = (1.090104 ± 0.066557)x + (-13.738106 ± 1.168712)
+p_up(x) = 1.090104x + -13.638106
+p_down(x) = 1.090104x + -13.838106
+
+Section 5 - Polynomial Degree: 1
+Coefficient of determination (R²): 0.995528
+p(x) = (-1.057750 ± 0.021376)x + (27.667338 ± 0.452393)
+p_up(x) = -1.057750x + 27.767338
+p_down(x) = -1.057750x + 27.567338
+
+Integration Boundaries:
+--------------------------------------------------
+Boundary 1: x = 0.0000 cm, y = 3.5162 cm
+Boundary 2: x = 3.2845 cm, y = 7.3066 cm
+Boundary 3: x = 7.0483 cm, y = 2.9415 cm
+Boundary 4: x = 15.2629 cm, y = 2.9001 cm
+Boundary 5: x = 19.2776 cm, y = 7.2765 cm
+Boundary 6: x = 23.1000 cm, y = 3.2333 cm
+
+Fit Statistics:
+--------------------------------------------------
+Number of sections: 5
+Polynomial degrees: [1, 1, 1, 1, 1]
+Average R²: 0.793281

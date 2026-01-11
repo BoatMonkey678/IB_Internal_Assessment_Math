@@ -1,0 +1,22 @@
+Polynomial Fitting Results for Vase_01
+==================================================
+
+Polynomial Coefficients:
+--------------------------------------------------
+
+Section 1 - Polynomial Degree: 1
+Coefficient of determination (R²): 0.031843
+p(x) = (0.000919 ± 0.000925)x + (8.541978 ± 0.011292)
+p_up(x) = 0.000919x + 8.641978
+p_down(x) = 0.000919x + 8.441978
+
+Integration Boundaries:
+--------------------------------------------------
+Boundary 1: x = 0.0000 cm, y = 8.5420 cm
+Boundary 2: x = 19.5000 cm, y = 8.5599 cm
+
+Fit Statistics:
+--------------------------------------------------
+Number of sections: 1
+Polynomial degrees: [1]
+Average R²: 0.031843
